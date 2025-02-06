@@ -7,3 +7,7 @@
 - Reach me at Email: markemmanue311@gmail.com or Contact: +254 769 600 012
 - Fun fact: ...
 
+## My Stats
+
+[![Mark Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mark-Emmanuel311&show_icons=true&theme=radical)](https://github.com/Mark-Emmanuel311/github-readme-stats)
+
