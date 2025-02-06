@@ -1,4 +1,4 @@
-<!--
+
 **Mark-Emmanuel311/Mark-Emmanuel311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - Ask me about ...
 - FUn fact:
 - Reach me at Email: markemmanue311@gmail.com or Contact: +254 769 600 012
-- ⚡ Fun fact: ...
--->
+- Fun fact: ...
+
