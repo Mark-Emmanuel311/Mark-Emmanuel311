@@ -1,8 +1,3 @@
-
-**Mark-Emmanuel311/Mark-Emmanuel311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - Hi, I’m Mark Emmanuel
 - a Cybersecurity enthusiast
 - I’m looking to collaborate on ...
