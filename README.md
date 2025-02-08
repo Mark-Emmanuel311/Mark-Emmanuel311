@@ -28,15 +28,16 @@ I’m passionate about security, development, and technology. I’m always eager
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40" style="margin-right: 10px;" />
 </p>
 
 ### Tools  
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin-right: 10px;" />
-  <!-- Updated Wireshark and Kali Linux logos from Simple Icons -->
+  <!-- Using modern icons for Wireshark and Kali Linux -->
   <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.simpleicons.org/kali-linux" alt="Kali Linux" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="40" height="40" style="margin-right: 10px;" />
 </p>
 
 ## 📈 My Stats  
