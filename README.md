@@ -13,6 +13,8 @@ I’m passionate about development, security and technology. I’m always eager 
 - Web development (Frontend & Backend)  
 - Networking and system security
 
+💡 **Fun Fact:** The first computer virus was created as an experiment and was called the "Creeper" virus. It displayed the message: *"I’M THE CREEPER, CATCH ME IF YOU CAN!"* — a challenge that led to the creation of the first antivirus!
+
 ## 🛠️ Languages, Technologies & Tools  
 
 ### Programming Languages  
@@ -48,9 +50,8 @@ I’m passionate about development, security and technology. I’m always eager 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Emmanuel311&layout=compact&theme=radical)
 
 ## 📫 Reach Me  
- <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="20" height="20" style="vertical-align:middle; margin-right:5px;" /> [markemmanue311@gmail.com](mailto:markemmanue311@gmail.com)  
+ <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="20" height="20" style="vertical-align:middle; margin-right:5px;" /> [Mail](mailto:markemmanue311@gmail.com)  
  <img src="https://img.icons8.com/ios-filled/20/000000/phone.png" alt="Phone" style="vertical-align:middle; margin-right:5px;" /> +254 769 600 012  
- <img src="https://cdn.simpleicons.org/whatsapp" alt="WhatsApp" width="20" height="20" style="vertical-align:middle; margin-right:5px;" /> [Chat with me](https://wa.me/254769600012)  
- <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="20" height="20" style="vertical-align:middle; margin-right:5px;" /> [Mark Emmanuel](https://www.linkedin.com/in/mark-emmanuel-81bb65335)
+ <img src="https://cdn.simpleicons.org/whatsapp" alt="WhatsApp" width="20" height="20" style="vertical-align:middle; margin-right:5px;" /> [WhatsApp](https://wa.me/254769600012)  
+ <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="20" height="20" style="vertical-align:middle; margin-right:5px;" /> [LinkedIn](https://www.linkedin.com/in/mark-emmanuel-81bb65335)
 
-💡 **Fun Fact:** The first computer virus was created as an experiment and was called the "Creeper" virus. It displayed the message: *"I’M THE CREEPER, CATCH ME IF YOU CAN!"* — a challenge that led to the creation of the first antivirus!
