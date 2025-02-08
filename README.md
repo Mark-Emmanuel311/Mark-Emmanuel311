@@ -37,8 +37,9 @@ I’m passionate about security, development, and technology. I’m always eager
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" width="40" height="40" style="margin-right: 10px;" />
-  <!-- Updated Kali Linux logo from Wikimedia Commons -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Kali_Linux_2019.svg" alt="Kali Linux" width="40" height="40" style="margin-right: 10px;" />
+  <!-- Updated Kali Linux logo from the official website -->
+  <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.simpleicons.org/metasploit" alt="Metasploit" width="40" height="40" style="margin-right: 10px;" />
 </p>
 
 ## 📈 My Stats  
