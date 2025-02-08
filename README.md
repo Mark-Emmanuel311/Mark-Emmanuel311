@@ -40,6 +40,7 @@ I’m passionate about security, development, and technology. I’m always eager
   <!-- Updated Kali Linux logo from the official website -->
   <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.simpleicons.org/metasploit" alt="Metasploit" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.simpleicons.org/burpsuite" alt="Burp Suite" width="40" height="40" style="margin-right: 10px;" />
 </p>
 
 ## 📈 My Stats  
