@@ -51,7 +51,7 @@ I’m passionate about development, security and technology. I’m always eager 
 
 ## 📫 Reach Me  
  <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="20" height="20" style="vertical-align:middle; margin-right:5px;" /> [ Mail](mailto:markemmanue311@gmail.com)  
- <img src="https://img.icons8.com/ios-filled/20/000000/phone.png" alt="Phone" style="vertical-align:middle; margin-right:5px;" /> <a href="tel:254769600012">+254 769 600 012</a>  
+ <img src="https://img.icons8.com/ios-filled/20/000000/phone.png" alt="Phone" style="vertical-align:middle; margin-right:5px;" /> <a href="tel:+254769600012">+254 769 600 012</a>  
  <img src="https://cdn.simpleicons.org/whatsapp" alt="WhatsApp" width="20" height="20" style="vertical-align:middle; margin-right:5px;" /> [ WhatsApp](https://wa.me/254769600012)  
  <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="20" height="20" style="vertical-align:middle; margin-right:5px;" /> [ LinkedIn](https://www.linkedin.com/in/mark-emmanuel-81bb65335)
 
