@@ -1,5 +1,5 @@
 # Hi, I’m Mark Emmanuel 👋  
-### 🚀 Cybersecurity Enthusiast | Developer  
+### 🚀 Cybersecurity Enthusiast | Developer
 
 I’m passionate about security, development, and technology. I’m always eager to learn, contribute, and collaborate on exciting projects.
 
@@ -34,11 +34,10 @@ I’m passionate about security, development, and technology. I’m always eager
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Wireshark_icon.svg" alt="Wireshark" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Kali_Linux_Logo.svg" alt="Kali Linux" width="40" height="40" style="margin-right: 10px;" />
+  <!-- Updated Wireshark and Kali Linux logos from Simple Icons -->
+  <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.simpleicons.org/kali-linux" alt="Kali Linux" width="40" height="40" style="margin-right: 10px;" />
 </p>
-
----
 
 ## 📈 My Stats  
 ![Mark Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mark-Emmanuel311&show_icons=true&theme=radical)  
