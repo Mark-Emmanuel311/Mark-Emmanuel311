@@ -1,13 +1,30 @@
-- Hi, I’m Mark Emmanuel
-- a Cybersecurity enthusiast
-- I’m looking to collaborate on ...
-- I’m looking forward to collaborate on any project, frontend, backend or fullstack
-- Ask me about ...
-- FUn fact:
-- Reach me at Email: markemmanue311@gmail.com or Contact: +254 769 600 012
-- Fun fact: ...
+# Hi, I’m Mark Emmanuel 👋  
+### 🚀 Cybersecurity Enthusiast | Developer  
 
-## My Stats
+I’m passionate about security, development, and technology. I’m always eager to learn, contribute, and collaborate on exciting projects.  
 
-[![Mark Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mark-Emmanuel311&show_icons=true&theme=radical)](https://github.com/Mark-Emmanuel311/github-readme-stats)
+## 💡 What I Do  
+- Open to collaborating on **frontend, backend, or full-stack** projects.  
+- Interested in **Cybersecurity, Web Development, and Software Engineering**.  
+- Constantly learning and exploring new technologies.  
 
+## 🔍 Ask Me About  
+- Cybersecurity principles  
+- Web development (Frontend & Backend)  
+- Networking and system security  
+
+## 📈 My Stats  
+![Mark Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mark-Emmanuel311&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Emmanuel311&layout=compact&theme=radical)  
+
+## 📫 Reach Me  
+📧 Email: markemmanue311@gmail.com  
+📞 Contact: +254 769 600 012  
+💬 WhatsApp: [Chat with me](https://wa.me/254769600012)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mark-emmanuel-81bb65335)  
+
+💡 **Fun Fact:** The first computer virus was created as an experiment and was called the "Creeper" virus. It displayed the message: *"I’M THE CREEPER, CATCH ME IF YOU CAN!"*—a challenge that led to the creation of the first antivirus!  
+
+---
+
+Everything look good? Or do you want any other changes? 😊
