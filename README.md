@@ -4,7 +4,7 @@
 I’m passionate about security, development, and technology. I’m always eager to learn, contribute, and collaborate on exciting projects.
 
 ## 💡 What I Do  
-- Open to collaborating on **frontend, backend, or full-stack** projects.  
+- Open to collaborating on **frontend, backend or full-stack** projects.  
 - Interested in **Cybersecurity, Web Development, and Software Engineering**.  
 - Constantly learning and exploring new technologies.
 
@@ -47,9 +47,9 @@ I’m passionate about security, development, and technology. I’m always eager
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Emmanuel311&layout=compact&theme=radical)
 
 ## 📫 Reach Me  
-- **Email:** <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="20" height="20" style="vertical-align:middle; margin-right:5px;" /> [markemmanue311@gmail.com](mailto:markemmanue311@gmail.com)  
-- **Phone:** <img src="https://img.icons8.com/ios-filled/20/000000/phone.png" alt="Phone" style="vertical-align:middle; margin-right:5px;" /> +254 769 600 012  
-- **WhatsApp:** <img src="https://cdn.simpleicons.org/whatsapp" alt="WhatsApp" width="20" height="20" style="vertical-align:middle; margin-right:5px;" /> [Chat with me](https://wa.me/254769600012)  
-- **LinkedIn:** <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="20" height="20" style="vertical-align:middle; margin-right:5px;" /> [Mark Emmanuel](https://www.linkedin.com/in/mark-emmanuel-81bb65335)
+- <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="20" height="20" style="vertical-align:middle; margin-right:5px;" /> [markemmanue311@gmail.com](mailto:markemmanue311@gmail.com)  
+- <img src="https://img.icons8.com/ios-filled/20/000000/phone.png" alt="Phone" style="vertical-align:middle; margin-right:5px;" /> +254 769 600 012  
+- <img src="https://cdn.simpleicons.org/whatsapp" alt="WhatsApp" width="20" height="20" style="vertical-align:middle; margin-right:5px;" /> [Chat with me](https://wa.me/254769600012)  
+- <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="20" height="20" style="vertical-align:middle; margin-right:5px;" /> [Mark Emmanuel](https://www.linkedin.com/in/mark-emmanuel-81bb65335)
 
 💡 **Fun Fact:** The first computer virus was created as an experiment and was called the "Creeper" virus. It displayed the message: *"I’M THE CREEPER, CATCH ME IF YOU CAN!"* — a challenge that led to the creation of the first antivirus!
