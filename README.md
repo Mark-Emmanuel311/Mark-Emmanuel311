@@ -13,6 +13,16 @@ I’m passionate about security, development, and technology. I’m always eager
 - Web development (Frontend & Backend)  
 - Networking and system security  
 
+## 🛠️ Languages & Technologies  
+- **Programming Languages:** C, Java, Python, PHP, JavaScript  
+- **Web Development:** HTML, CSS, JavaScript  
+- **Backend:** PHP, Python, Java  
+- **Cybersecurity:** Network security, ethical hacking principles  
+
+## 🔧 Tools I Use  
+- **Development Tools:** Git, VS Code  
+- **Cybersecurity Tools:** Wireshark, Kali Linux  
+
 ## 📈 My Stats  
 ![Mark Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mark-Emmanuel311&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Emmanuel311&layout=compact&theme=radical)  
@@ -26,5 +36,3 @@ I’m passionate about security, development, and technology. I’m always eager
 💡 **Fun Fact:** The first computer virus was created as an experiment and was called the "Creeper" virus. It displayed the message: *"I’M THE CREEPER, CATCH ME IF YOU CAN!"*—a challenge that led to the creation of the first antivirus!  
 
 ---
-
-Everything look good? Or do you want any other changes? 😊
