@@ -29,7 +29,7 @@ I’m passionate about security, development, and technology. I’m always eager
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.simpleicons.org/django" alt="Django" width="40" height="40" style="margin-right: 10px;" />
 </p>
 
 ### Tools  
@@ -37,8 +37,8 @@ I’m passionate about security, development, and technology. I’m always eager
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" width="40" height="40" style="margin-right: 10px;" />
-  <!-- Updated Kali Linux logo -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Kali_Linux_Logo.svg" alt="Kali Linux" width="40" height="40" style="margin-right: 10px;" />
+  <!-- Updated Kali Linux logo from Wikimedia Commons -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Kali_Linux_2019.svg" alt="Kali Linux" width="40" height="40" style="margin-right: 10px;" />
 </p>
 
 ## 📈 My Stats  
@@ -47,8 +47,8 @@ I’m passionate about security, development, and technology. I’m always eager
 
 ## 📫 Reach Me  
 - **Email:** <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="20" height="20" style="vertical-align:middle; margin-right:5px;" /> [markemmanue311@gmail.com](mailto:markemmanue311@gmail.com)  
-- **Phone:** <img src="https://cdn.simpleicons.org/phone" alt="Phone" width="20" height="20" style="vertical-align:middle; margin-right:5px;" /> +254 769 600 012  
+- **Phone:** <img src="https://img.icons8.com/ios-filled/20/000000/phone.png" alt="Phone" style="vertical-align:middle; margin-right:5px;" /> +254 769 600 012  
 - **WhatsApp:** <img src="https://cdn.simpleicons.org/whatsapp" alt="WhatsApp" width="20" height="20" style="vertical-align:middle; margin-right:5px;" /> [Chat with me](https://wa.me/254769600012)  
 - **LinkedIn:** <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="20" height="20" style="vertical-align:middle; margin-right:5px;" /> [Mark Emmanuel](https://www.linkedin.com/in/mark-emmanuel-81bb65335)
 
-💡 **Fun Fact:** The first computer virus was created as an experiment and was called the "Creeper" virus. It displayed the message: *"I’M THE CREEPER, CATCH ME IF YOU CAN!"*—a challenge that led to the creation of the first antivirus!
+💡 **Fun Fact:** The first computer virus was created as an experiment and was called the "Creeper" virus. It displayed the message: *"I’M THE CREEPER, CATCH ME IF YOU CAN!"* — a challenge that led to the creation of the first antivirus!
