@@ -13,15 +13,24 @@ I’m passionate about security, development, and technology. I’m always eager
 - Web development (Frontend & Backend)  
 - Networking and system security  
 
-## 🛠️ Languages & Technologies  
-- **Programming Languages:** C, Java, Python, PHP, JavaScript  
-- **Web Development:** HTML, CSS, JavaScript  
-- **Backend:** PHP, Python, Java  
-- **Cybersecurity:** Network security, ethical hacking principles  
+## 🛠️ Languages, Technologies & Tools  
 
-## 🔧 Tools I Use  
-- **Development Tools:** Git, VS Code  
-- **Cybersecurity Tools:** Wireshark, Kali Linux  
+### Programming Languages  
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com)  
+
+### Web Development  
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+
+### Tools  
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A8?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)  
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
 
 ## 📈 My Stats  
 ![Mark Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mark-Emmanuel311&show_icons=true&theme=radical)  
@@ -33,6 +42,4 @@ I’m passionate about security, development, and technology. I’m always eager
 💬 WhatsApp: [Chat with me](https://wa.me/254769600012)  
 🔗 [LinkedIn](https://www.linkedin.com/in/mark-emmanuel-81bb65335)  
 
-💡 **Fun Fact:** The first computer virus was created as an experiment and was called the "Creeper" virus. It displayed the message: *"I’M THE CREEPER, CATCH ME IF YOU CAN!"*—a challenge that led to the creation of the first antivirus!  
-
----
+💡 **Fun Fact:** The first computer virus was created as an experiment and was called the "Creeper" virus. It displayed the message: *"I’M THE CREEPER, CATCH ME IF YOU CAN!"*—a challenge that led to the creation of the first antivirus!
